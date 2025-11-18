@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on **A custom hosting client area for a hosting company**
 
-- 👯 I’m looking to collaborate on [A online learning platform](Full Stack Software Developer)
 
-- 👨‍💻 All of my projects are available at [https://www.tahmied.com](https://www.tahmied.com)
+- 👨‍💻 All of my projects are available at [https://www.tahmied.com](https://www.tahmied.com/projects)
 
 - 📝 I regularly write articles on [https://www.tahmied.com/blog](https://www.tahmied.com/blog)
 

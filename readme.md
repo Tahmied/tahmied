@@ -32,8 +32,7 @@ I’m always working on something, I have plenty of ideas,and I tackle them one 
 
 - 📫 How to reach me **contact@tahmied.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WA-oai85t9uGJp7uQQbshcgT8Oy3RyKb/view?usp=drive_link](https://drive.google.com/file/d/1WA-oai85t9uGJp7uQQbshcgT8Oy3RyKb/view?usp=drive_link)
-
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PiHzxVLp4UCmr3xNbJC1xE_bPSaBkcns/view?usp=sharing)
 
 ## Contact
 Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/tahmied-hossain-213512303/)

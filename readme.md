@@ -1,26 +1,48 @@
-<h1 align="center">Hi 👋, I'm Tahmied Hossain</h1>
-<h3 align="center">Full Stack Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmied&label=Profile%20views&color=0e75b6&style=flat" alt="tahmied" /> </p>
 
-- 🔭 I’m currently working on **A custom hosting client area for a hosting company**
+## About Me 
+I'm Tahmied Hossain, a passionate developer who **genuinely understands business needs** and turns ideas into effective, **high-converting**, and **user-friendly** products. I love exploring new technologies and building things that make a real impact.
+
+While my main focus is **web development**, I’ve also explored **app development** with Android Studio + Java and even dipped my toes into **game development with Unity**. I enjoy experimenting, learning, and pushing myself into new areas.
+
+I’m always working on something, I have plenty of ideas,and I tackle them one by one. And most importantly, **whatever I start, I finish**.
 
 
-- 👨‍💻 All of my projects are available at [https://www.tahmied.com](https://www.tahmied.com/projects)
+<h3>When I code, I rely on</h3>
+
+
+|       Skills Overview        | Technologies                                                                                                                                                                                                                          |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**         | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)                                                      |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)  |
+| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                                   |
+| **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)                                  |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva) |
+
+
+
+- 🔭 I’m currently working on **A custom client area for a hosting company**
+
+- 🌱 I’m currently learning **kotlin**
+
+- 👨‍💻 All of my projects are available at [https://www.tahmied.com/projects](https://www.tahmied.com/projects)
 
 - 📝 I regularly write articles on [https://www.tahmied.com/blog](https://www.tahmied.com/blog)
 
-- 💬 Ask me about **nodejs, react, mongodb, javascript, express, html, css, js, server management**
-
 - 📫 How to reach me **contact@tahmied.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WA-oai85t9uGJp7uQQbshcgT8Oy3RyKb/view?usp=sharing](https://drive.google.com/file/d/1WA-oai85t9uGJp7uQQbshcgT8Oy3RyKb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WA-oai85t9uGJp7uQQbshcgT8Oy3RyKb/view?usp=drive_link](https://drive.google.com/file/d/1WA-oai85t9uGJp7uQQbshcgT8Oy3RyKb/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tahmied-hossain-213512303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahmied-hossain-213512303" height="30" width="40" /></a>
-<a href="https://instagram.com/tahmied_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahmied_hossain" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Contact
+Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/tahmied-hossain-213512303/)
+
+You can also find me on:
+
+- **Email**: contact@tahmied.com
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/tahmied-hossain-213512303/)
+- **Facebook** : [Click Here](https://www.facebook.com/tahmied.dev/)
+
+
+Let's connect and discuss exciting opportunities!

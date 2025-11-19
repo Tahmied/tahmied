@@ -1,6 +1,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmied&label=Profile%20views&color=0e75b6&style=flat" alt="tahmied" /> </p>
 
+<img src='https://raw.githubusercontent.com/Tahmied/tahmied/refs/heads/main/github%20bg.png' alt='tahmieds github banner' />
+
 ## About Me 
 I'm Tahmied Hossain, a passionate developer who **genuinely understands business needs** and turns ideas into effective, **high-converting**, and **user-friendly** products. I love exploring new technologies and building things that make a real impact.
 
